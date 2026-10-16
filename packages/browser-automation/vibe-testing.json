@@ -6,9 +6,7 @@
   "readme": "https://github.com/AishwaryShrivastav/vibe-testing#readme",
   "runtime": "node",
   "license": "MIT",
-  "binArgs": [
-    "--mcp"
-  ],
+  "binArgs": ["--mcp"],
   "env": {},
   "name": "vibe-testing"
 }
